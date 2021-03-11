@@ -1,23 +1,18 @@
 {
-  "name": "minimal-mistakes",
+  "name": "email-template-editor",
   "private": true,
-  "version": "4.22.0",
-  "description": "Minimal Mistakes 2 column Jekyll theme.",
+  "version": "0.0.1",
+  "description": "Email template editor document",
   "repository": {
     "type": "git",
-    "url": "git://github.com/mmistakes/minimal-mistakes.git"
+    "url": "git://github.com/dotuan9x/email-template-editor"
   },
   "keywords": [
-    "jekyll",
-    "theme",
-    "minimal"
+    "jekyll"
   ],
-  "author": "Michael Rose",
+  "author": "dotuan9x",
   "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/mmistakes/minimal-mistakes/issues"
-  },
-  "homepage": "https://mmistakes.github.io/minimal-mistakes/",
+  "homepage": "https://meovathay.vn",
   "engines": {
     "node": ">= 0.10.0"
   },
