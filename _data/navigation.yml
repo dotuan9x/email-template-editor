@@ -1,9 +1,9 @@
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: /docs/quick-start-guide/
+    url: https://ants.vn
   - title: "About"
-    url: /about/
+    url: https://ants.vn
 
 docs:
   - title: Getting Started
